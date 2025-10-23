@@ -1,3 +1,6 @@
+![Salary-image](https://github.com/user-attachments/assets/ca8e834a-d667-477c-bd28-74b10d017bc1)
+
+
 # 💼 Employee Salary Analysis – Excel Dashboard & Insights
 
 ## 📊 Project Overview
